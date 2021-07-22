@@ -1,5 +1,7 @@
 # Why we vote & what for?
 
+![Why we vote &amp; what for?](../.gitbook/assets/rws_tarot_04_emperor.jpg)
+
 ## Important
 
 W**ho's getting beers? when's the next meeting?**
