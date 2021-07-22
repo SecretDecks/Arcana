@@ -11,4 +11,5 @@
 * [Why we vote & what for?](dao-brainstorms/why-we-vote-and-what-for.md)
 * [How we vote?](dao-brainstorms/how-we-vote.md)
 * [Voting](dao-brainstorms/voting.md)
+* [Decisions](dao-brainstorms/decisions.md)
 
