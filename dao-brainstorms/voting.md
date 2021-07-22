@@ -1,6 +1,10 @@
 # Voting
 
-##  **Loosely Coupled**
+ 
+
+![Voting](../.gitbook/assets/rws_tarot_06_lovers.jpg)
+
+## **Loosely Coupled**
 
 Loosely Coupled Votes happen off-chain and act as signal of a change that should be implemented. The community then decides to honor this vote and update the soft protocol accordingly.
 
