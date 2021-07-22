@@ -1,5 +1,7 @@
 # Where do we want to go ?
 
+![Where do we want to go ?](../.gitbook/assets/rws_tarot_01_magician.jpg)
+
 Our goal is to start with a "stewardship" layer for an artist focused Distributed Cooperative \(DisCo\).
 
 * Some other form of governance.
