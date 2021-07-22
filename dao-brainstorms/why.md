@@ -1,5 +1,7 @@
 # Why ?
 
+![Why ?](../.gitbook/assets/rws_tarot_02_high_priestess.jpg)
+
 For a distributed community to be sustainable it must define how it governs itself clearly and transparently.
 
 At first, we will steward Secret Decks towards this goal by building a tool set that:
