@@ -9,4 +9,5 @@
 * [Why ?](dao-brainstorms/why.md)
 * [Next Steps - 1st Epoch](dao-brainstorms/next-steps-1st-epoch.md)
 * [Why we vote & what for?](dao-brainstorms/why-we-vote-and-what-for.md)
+* [How we vote?](dao-brainstorms/how-we-vote.md)
 
