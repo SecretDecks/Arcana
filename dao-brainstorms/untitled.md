@@ -2,7 +2,7 @@
 
 ![Where are we now ?](../.gitbook/assets/rws_tarot_00_fool.jpg)
 
-We are a group of loosely organized individuals seeking to form an Autonomous Distributed Cooperative \(ADisCO\) through the experience of introducing the Tarot to paradigm shifting NFT technology. 
+We are a group of loosely organised individuals seeking to form an Autonomous Distributed Cooperative \(ADisCo\) through the experience of introducing the Tarot to paradigm-shifting NFT technology. 
 
-As well as offering educational material and an app ecosystem for enhanced self reflection and knowledge. In order to empower creative individuals spiritually and economically.
+We're also offering educational material and an app ecosystem for enhanced self reflection and knowledge, in order to empower creative individuals spiritually and economically.
 
