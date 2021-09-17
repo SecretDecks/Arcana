@@ -29,7 +29,7 @@ One of the three primes, connecting the lower and higher primes. It also represe
 **Sephira:** Tipheret  
 **Gemstone partner:** Alessandrite
 
-### BLACK INFINITE - the infinite element
+### BLACK INFINITE - the black/infinite element
 
 #### Doppelgänger element: Aether
 
