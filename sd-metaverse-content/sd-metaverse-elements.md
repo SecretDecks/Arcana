@@ -13,8 +13,6 @@ One of the five classical elements, representing the world of our emotions and p
 
 #### Doppelgänger element: Fire  
 
-Another classic element is fire, representing the raw forces of creation and creativity. In the Tarot fire is represented by the wand, as the wand can be utilised for fighting and destruction but also is made from a branch that is the bearer of fruits and thus creation. 
-
 Fire. One of the classical elements, representing the raw forces of creation and creativity. In the Tarot, fire is represented by the wand, as it can be utilised for fighting \(destruction\) but is also fashioned from a branch that bears fruits \(creation\).
 
 **Sephira:** Malchuth {Malkuth}  

@@ -1,5 +1,5 @@
 ---
-description: 'What, Why and How'
+description: What are Founder Elements?
 ---
 
 # The Founders Drop
@@ -14,7 +14,7 @@ _**We kindly ask the Cardano community to help us find new homes for these pecul
 
 ### What founders get!
 
-The content will be revealed with the [website](www.secretdecks.com) relaunch around the 24th of September. The content will mark owners as official founders that will always have a special place and rank in the SecretDecks metaverse. It is told the elements cast a peculiar effect from within, once the first deck drop approaches.
+The content will be revealed with the [website](www.secretdecks.com) relaunch around the 19th of September. The content will mark owners as official founders that will always have a special place and rank in the SecretDecks metaverse. It is told the elements cast a peculiar effect from within, once the first deck drop approaches.
 
 ### Why the Founders drop?
 
