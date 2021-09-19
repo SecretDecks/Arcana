@@ -26,7 +26,7 @@ _UX, product management, CoopDev \(previously BizDev\)_
 
 _Web development, DevOps, art direction_
 
-![](../.gitbook/assets/screenshot-2021-09-19-at-21.45.54.png)
+![](../.gitbook/assets/screenshot-2021-09-19-at-22.12.17.png)
 
 ### Dan 
 
