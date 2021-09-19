@@ -52,5 +52,11 @@ _UX, web design, brand design_
 
 To be revealed soon
 
+## Master of Community \[in training\]
+
+### Mars V.
+
+![](../.gitbook/assets/screenshot-2021-09-19-at-21.39.28.png)
+
 
 
