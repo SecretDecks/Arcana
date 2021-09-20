@@ -41,5 +41,5 @@ The SecretDecks roadmap follows the Hero's Journey depicted in the Major Arcana 
 ### Keyword: **CONJURE**
 {% endhint %}
 
-![](../.gitbook/assets/image%20%282%29.png)
+![Rider-Waite Tarot: Pamela Smith Commemorative Edition](../.gitbook/assets/image%20%282%29.png)
 
