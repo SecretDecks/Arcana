@@ -48,7 +48,7 @@ The SecretDecks roadmap follows the Hero's Journey depicted in the Major Arcana 
 ### Keyword: **IMAGINE**
 {% endhint %}
 
-![Rider Waite Tarot: Pamela Smith Commemorative Edition](../.gitbook/assets/image%20%286%29.png)
+![Rider-Waite Tarot: Pamela Smith Commemorative Edition](../.gitbook/assets/image%20%286%29.png)
 
 The decision to start with _0 - The Fool_ and not with _I - The_ _Magician_ was made upon a perception of our current situation:
 
