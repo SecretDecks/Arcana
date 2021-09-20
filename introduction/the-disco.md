@@ -12,7 +12,7 @@ _Editing, artist outreach, community care work_
 
 ### Stephen
 
-_aka REPO-MAN; Quality assurance, system automation, documentation, token design;_ 
+_aka REPO-MAN; quality assurance, system automation, documentation, token design;_ 
 
 ![](../.gitbook/assets/screenshot-2021-09-19-at-21.40.22.png)
 
