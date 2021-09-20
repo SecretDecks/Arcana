@@ -54,7 +54,7 @@ The decision to start with _0 - The Fool_ and not with _I - The_ _Magician_ was 
 
 We are close to the edge, running with the newest tech, trying it out to see how it works and when or why it breaks. Fearlessly marching towards the edge of chaos, imagining all possible solutions to any problem out there. 
 
-This is where we are now. Naively thinking we can solve the issues and impediments around individual sovereignty, financial freedom, and social morale, while creating a Tarot metaverse.
+This is where we are now. Naively thinking we can solve the issues and impediments around individual sovereignty, financial freedom, and social morals, while creating a Tarot metaverse.
 
 Let's see what we'll create from the chaos.
 
