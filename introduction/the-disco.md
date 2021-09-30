@@ -1,6 +1,10 @@
 # The DisCo
 
-## We're not a company or a team. We are a distributed cooperative, DisCo for short.
+## We're not a company or a team. We are a distributed cooperative, [DisCo](https://disco.coop/manifesto/) for short.
+
+### TL;DR:
+
+DisCo is a more human focused spin on a DAO, decentralised autonomous organisation. Tracking also intangible contributions like community care work and distributing \(voting\) power on a merit based way.
 
 ## Core 
 
