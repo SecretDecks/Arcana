@@ -26,7 +26,7 @@ The SecretDecks roadmap follows the Hero's Journey depicted in the Major Arcana 
         <ol>
           <li>READINGS (beta) P2P Tarot reading dApp; each reading mints an NFT with
             the reading details as metadata</li>
-          <li>more DROPs</li>
+          <li>More DROPs</li>
         </ol>
       </td>
     </tr>
