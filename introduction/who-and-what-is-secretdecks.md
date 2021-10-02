@@ -6,7 +6,7 @@ description: ENTER THE TAROT METAVERSE
 
 ### Who is SecretDecks?
 
-SecretDecks is a colourful collective of mindful spirits who work towards leaving this dimension a better place. Discovering and exploring new tools for self organising communities is our common motivation. All members share an agreed upon value system, defined in the [Mindfulness Policy](https://github.com/SecretDecks/Documentation/blob/main/Mindfulness-Policy.md), which sets the base vibration of our work. 
+SecretDecks is a colourful collective of mindful spirits who work towards leaving this dimension a better place. Discovering and exploring new tools for self organising communities is our common motivation. All members share an agreed upon values, defined in the [Mindfulness Policy](https://github.com/SecretDecks/Documentation/blob/main/Mindfulness-Policy.md), which sets the base vibration of our work. 
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
@@ -36,7 +36,7 @@ The seeds of the Tarot metaverse will be planted within the applications listed 
 * SD-"SHARE" - p2p collectible trade, to help complete collections
 * SD-"STAKING" - stake your NFT to receive rewards from SD-SPO
 
-In order to fast-track development, offer remuneration to the handful of people who have been working on this the past 6 months, and to test the distributed contribution reward mechanism, SecretDecks decided to do a **Founders Drop** **on Cardano with a limited supply of 333 pieces** with three different rarity tiers**.** The drop will happen ****about a week after the Alonzo rollout, for the exact date follow us on [Twitter! ](https://twitter.com/SecretDecks)or join our [Discord](https://discord.gg/V4UXUuXNYW)!
+In order to fast-track development, offer remuneration to the handful of people who have been working on this the past 6 months, and to test the distributed contribution reward mechanism, SecretDecks decided to do a **Founders Drop** **on Cardano with a limited supply of 333 pieces** with three different rarity tiers**.** The drop will happen ****in October, for the exact date follow us on [Twitter! ](https://twitter.com/SecretDecks)or join our [Discord](https://discord.gg/V4UXUuXNYW)!
 
 #### For more information on the Founders Drop [tap here](the-founders-drop.md).
 
