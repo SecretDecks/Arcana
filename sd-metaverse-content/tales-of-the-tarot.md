@@ -20,5 +20,4 @@ The tree of life contains ancient mystical knowledge of the essence and origin o
 
 
 
-![](../.gitbook/assets/image%20%284%29.png)
-
+![](<../.gitbook/assets/image (2).png>)

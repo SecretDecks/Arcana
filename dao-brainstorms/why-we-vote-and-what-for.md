@@ -1,6 +1,6 @@
 # Why we vote and what for?
 
-![Why we vote and what for?](../.gitbook/assets/rws_tarot_04_emperor.jpg)
+![Why we vote and what for?](../.gitbook/assets/RWS_Tarot\_04\_Emperor.jpg)
 
 ## Important
 
@@ -15,4 +15,3 @@ What artists should be featured in the next drop?
 ## Super Important
 
 **What legislative changes should be approved?**
-

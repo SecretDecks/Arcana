@@ -6,5 +6,4 @@ description: Welcome to the SecretDecks Arcana GitBook
 
 ### Here lies and grows the knowledge of the SECRETDECKS METAVERSE.
 
-![](.gitbook/assets/avatar_twitter_smallerpayoff.png)
-
+![](.gitbook/assets/Avatar_Twitter_smallerPayoff.png)

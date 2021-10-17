@@ -2,7 +2,7 @@
 
  
 
-![Voting](../.gitbook/assets/rws_tarot_06_lovers.jpg)
+![Voting](../.gitbook/assets/RWS_Tarot\_06\_Lovers.jpg)
 
 ## **Loosely Coupled**
 
@@ -11,4 +11,3 @@ Loosely Coupled Votes happen off-chain and act as signal of a change that should
 ##  **Tightly Coupled**
 
 Tightly Coupled votes happen on-chain. Whatever the majority decides through the vote is automatically adopted, as the vote is part of the hard protocol.
-

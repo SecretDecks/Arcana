@@ -4,7 +4,7 @@
 
 ### TL;DR:
 
-DisCo is a more human focused spin on a DAO, decentralised autonomous organisation. Tracking also intangible contributions like community care work and distributing \(voting\) power on a merit based way.
+DisCo is a more human focused spin on a DAO, decentralised autonomous organisation. Tracking also intangible contributions like community care work and distributing (voting) power on a merit based way.
 
 ## Core 
 
@@ -12,55 +12,53 @@ DisCo is a more human focused spin on a DAO, decentralised autonomous organisati
 
 _Editing, artist outreach, community care work_
 
-![](../.gitbook/assets/screenshot-2021-09-19-at-21.39.09.png)
+![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.39.09.png>)
 
 ### Stephen
 
-_aka REPO-MAN; quality assurance, system automation, documentation, token design;_ 
+_aka REPO-MAN; quality assurance, system automation, documentation, token design; _
 
-![](../.gitbook/assets/screenshot-2021-09-19-at-21.40.22.png)
+![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.40.22.png>)
 
 ### Tyler
 
-_UX, product management, CoopDev \(previously BizDev\)_
+_UX, product management, CoopDev (previously BizDev)_
 
-![](../.gitbook/assets/screenshot-2021-09-19-at-21.39.43.png)
+![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.39.43.png>)
 
 ### GianLuca
 
 _Web development, DevOps, art direction_
 
-![](../.gitbook/assets/screenshot-2021-09-19-at-22.12.17.png)
+![](<../.gitbook/assets/Screenshot 2021-09-19 at 22.12.17.png>)
 
 ### Dan 
 
 _Secretary, copywriting, product management, other stuff_
 
-![](../.gitbook/assets/screenshot-2021-09-19-at-21.40.15.png)
+![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.40.15.png>)
 
 
 
 ## Artists & Designers
 
-### Elisa \(logo creator!\)
+### Elisa (logo creator!)
 
-[Portfolio](https://issuu.com/elisadecrescenzo/docs/portfolioelisadecrescenzo2_798a666232b54b).
+[Portfolio](https://issuu.com/elisadecrescenzo/docs/portfolioelisadecrescenzo2\_798a666232b54b).
 
 ### Sara
 
 _UX, web design, brand design_
 
-![](../.gitbook/assets/screenshot-2021-09-19-at-21.49.21.png)
+![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.49.21.png>)
 
 ## Tarot Artists
 
 To be revealed soon
 
-## Master of Community \[in training\]
+## Master of Community \[in training]
 
 ### Mars V.
 
-![](../.gitbook/assets/screenshot-2021-09-19-at-21.39.28.png)
-
-
+![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.39.28.png>)
 
