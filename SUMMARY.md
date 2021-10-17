@@ -19,6 +19,7 @@
 * [SD - Metaverse Elements](sd-metaverse-content/sd-metaverse-elements.md)
 * [Tarot in Cyphers 🚧under construction🚧](sd-metaverse-content/tarot-in-cyphers.md)
 * [Tales of the Tarot 🚧under construction🚧](sd-metaverse-content/tales-of-the-tarot.md)
+* [Legends of Thoth](sd-metaverse-content/legends-of-thoth.md)
 * [Book of Thoth: Page 0](sd-metaverse-content/book-of-thoth-page-0.md)
 
 ## Roadmap Arcana
