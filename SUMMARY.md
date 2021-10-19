@@ -11,7 +11,7 @@
 
 ## SD dApp Metaverse
 
-* [SecretDecks: DROPS](sd-dapp-metaverse/secretdecks-drops.md)
+* [SecretDecks: SUMMONS](sd-dapp-metaverse/secretdecks-drops.md)
 * [SecretDecks: READINGS 🚧under construction🚧](sd-dapp-metaverse/secretdecks-readings.md)
 
 ## SD-Metaverse Content
