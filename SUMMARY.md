@@ -4,10 +4,11 @@
 
 ## Introduction
 
-* [Who & What is SecretDecks?!](introduction/who-and-what-is-secretdecks.md)
 * [The DisCo](introduction/the-disco.md)
 * [Tarot & the Self  🚧under construction🚧](introduction/tarot-and-self.md)
 * [The Founders Drop](introduction/the-founders-drop.md)
+* [FAQ](introduction/faq.md)
+* [Who & What is SecretDecks?!](introduction/who-and-what-is-secretdecks.md)
 
 ## SD dApp Metaverse
 
