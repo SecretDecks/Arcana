@@ -4,6 +4,7 @@
 
 ## Introduction
 
+* [💠 Mindfulness Policy](introduction/mindfulness-policy.md)
 * [Who & What is SecretDecks?!](introduction/who-and-what-is-secretdecks.md)
 * [The DisCo](introduction/the-disco.md)
 * [Tarot & the Self  🚧under construction🚧](introduction/tarot-and-self.md)
