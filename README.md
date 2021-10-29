@@ -4,6 +4,6 @@ description: Welcome to the SecretDecks Arcana GitBook
 
 # Arcana
 
-### Here lies and grows the knowledge of the SECRETDECKS METAVERSE.
+### Here lies and grows the knowledge of the SECRETDECKS METAVERSE experience.
 
-![](.gitbook/assets/Avatar_Twitter_smallerPayoff.png)
+![](.gitbook/assets/Avatar\_Twitter\_smallerPayoff.png)
