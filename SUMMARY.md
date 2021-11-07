@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Arcana](README.md)
+* [Calling Creators!](calling-creators.md)
 
 ## Introduction
 

@@ -1,12 +1,16 @@
+---
+description: Not a company, not only a team.
+---
+
 # The DisCo
 
-## We're not a company or a team. We are a distributed cooperative, [DisCo](https://disco.coop/manifesto/) for short.
+## We are a distributed cooperative, [DisCo](https://disco.coop/manifesto/) for short.
 
 ### TL;DR:
 
 DisCo is a more human focused spin on a DAO, decentralised autonomous organisation. Tracking also intangible contributions like community care work and distributing (voting) power on a merit based way.
 
-## Core 
+## Core&#x20;
 
 ### Heather
 
@@ -26,13 +30,13 @@ _UX, product management, CoopDev (previously BizDev)_
 
 ![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.39.43.png>)
 
-### GianLuca
+### GianLuca (left the DisCo in October 2021)
 
 _Web development, DevOps, art direction_
 
 ![](<../.gitbook/assets/Screenshot 2021-09-19 at 22.12.17.png>)
 
-### Dan 
+### Dan&#x20;
 
 _Secretary, copywriting, product management, other stuff_
 

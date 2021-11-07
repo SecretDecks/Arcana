@@ -1,5 +1,5 @@
 ---
-description: ENTER THE TAROT METAVERSE
+description: ENTER THE TAROT METAVERSE EXPERIENCE
 ---
 
 # Who & What is SecretDecks?!
