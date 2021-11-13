@@ -14,6 +14,7 @@
 
 ## SD dApp Metaverse
 
+* [The Tarot metaverse experience](sd-dapp-metaverse/the-tarot-metaverse-experience.md)
 * [SecretDecks: SUMMONS](sd-dapp-metaverse/secretdecks-drops.md)
 * [SecretDecks: READINGS 🚧under construction🚧](sd-dapp-metaverse/secretdecks-readings.md)
 
@@ -33,13 +34,13 @@
 * [II - The High Priestess](roadmap-arcana/ii-the-high-priestess.md)
 * [III - The Empress](roadmap-arcana/iii-the-empress.md)
 
-## DAO Brainstorms
+## LEGACY // DAO Brainstorms  <a href="dao-brainstorms" id="dao-brainstorms"></a>
 
-* [Where are we now ?](dao-brainstorms/untitled.md)
-* [Where do we want to go ?](dao-brainstorms/where-do-we-want-to-go.md)
-* [Why ?](dao-brainstorms/why.md)
-* [Next Steps - 1st Epoch](dao-brainstorms/next-steps-1st-epoch.md)
-* [Why we vote and what for?](dao-brainstorms/why-we-vote-and-what-for.md)
-* [How do we vote?](dao-brainstorms/how-we-vote.md)
-* [Voting](dao-brainstorms/voting.md)
-* [Decisions](dao-brainstorms/decisions.md)
+* [LEGACY // Where are we now ?](dao-brainstorms/untitled.md)
+* [LEGACY // Where do we want to go ?](dao-brainstorms/where-do-we-want-to-go.md)
+* [LEGACY // Why ?](dao-brainstorms/why.md)
+* [LEGACY // Next Steps - 1st Epoch](dao-brainstorms/next-steps-1st-epoch.md)
+* [LEGACY // Why we vote and what for?](dao-brainstorms/why-we-vote-and-what-for.md)
+* [LEGACY // How do we vote?](dao-brainstorms/how-we-vote.md)
+* [LEGACY // Voting](dao-brainstorms/voting.md)
+* [LEGACY // Decisions](dao-brainstorms/decisions.md)

@@ -2,20 +2,20 @@
 description: An introduction to the first dApp emerging from within the Tarot Metaverse.
 ---
 
-# SecretDecks: DROPS
+# SecretDecks: SUMMONS
 
 ### Summary
 
-DROPS is a NFT launchpad for virtual Tarot card collectibles. \
-The first two decks will feature original hand drawn content from two Italian artists who created two decks decades ago. They are now being immortalised in the metaverse and will have ornamental animations. 
+SUMMONS is a NFT launchpad for virtual Tarot card collectibles. \
+The first two decks will feature original hand drawn content from two Italian artists who created two decks decades ago. They are now being immortalised in the metaverse and will have ornamental animations.&#x20;
 
-Future drops will see multiple established and emerging artists collaborate on decks, each with their own unique interpretations.
+Future summons will see multiple established and emerging artists collaborate on decks, each with their own unique interpretations.
 
 The more rare the NFT the more animation you can expect!
 
-### Details 
+### Details&#x20;
 
-Each deck is only minted during a drop and **never** again! However, the common NFTs are unlimited in terms of how many times they can be minted during a drop; the rare and legendary ones are limited. There will be burn events where collectors can burn (7) of the same common cards to acquire a rare version of that card or (13) of the same common card to receive a legendary version. A full deck (Major & Minor Arcana) consists of 78 cards. Each full deck drop is made up of 78 price levels, with a simultaneous decreasing time limit and increasing rarity for each pull at each level. 
+Each deck is only minted during a drop and **never** again! However, the common NFTs are unlimited in terms of how many times they can be minted during a drop; the rare and legendary ones are limited. There will be burn events where collectors can burn (7) of the same common cards to acquire a rare version of that card or (13) of the same common card to receive a legendary version. A full deck (Major & Minor Arcana) consists of 78 cards. Each full deck drop is made up of 78 price levels, with a simultaneous decreasing time limit and increasing rarity for each pull at each level.&#x20;
 
 ### Minting amounts
 
