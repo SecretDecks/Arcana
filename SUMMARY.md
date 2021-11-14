@@ -7,6 +7,7 @@
 * [💠 Mindfulness Policy](introduction/mindfulness-policy.md)
 * [Who & What is SecretDecks?!](introduction/who-and-what-is-secretdecks.md)
 * [The DisCo](introduction/the-disco.md)
+* [The Stake Pool](introduction/the-stake-pool.md)
 * [Calling Creators!](introduction/calling-creators.md)
 * [Tarot & the Self  🚧under construction🚧](introduction/tarot-and-self.md)
 * [The Founders Drop](introduction/the-founders-drop.md)
