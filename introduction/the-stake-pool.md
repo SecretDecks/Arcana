@@ -25,3 +25,5 @@ SPOCRA is aiding SecretDecks by maintaining the hardware and backend as well as 
 Elevating Tarot into hyperspace and creating tools for all to Read Thy Self.
 
 **Pool margin: 4%**
+
+****

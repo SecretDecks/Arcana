@@ -14,12 +14,12 @@ _**We kindly ask the Cardano community to help us find new homes for these pecul
 
 ### What founders get!
 
-The content will be revealed with the [website](https://www.secretdecks.com) relaunch In November 2021. The content will mark owners as official founders that will always have a special place and rank in the SecretDecks metaverse. It is told the elements cast a peculiar effect from within, once the first deck drop approaches.
+The content will be revealed with the [website](https://www.secretdecks.com) relaunch In December 2021. The content will mark owners as official founders that will always have a special place and rank in the SecretDecks metaverse. It is told the elements cast a peculiar effect from within, once the first deck drop approaches.
 
 ### Why the Founders drop?
 
 We would like to continue working on this project and this would allow testing of our distributed contribution reward mechanism, which rewards people after they've delivered. \
-Please do stop by [our GitHub](https://github.com/SecretDecks) and see what we've been up to.
+Please do stop by [our GitHub](https://github.com/SecretDecks) and see what we've been up to. Check out our [Announcement Channel on Discord](https://discord.gg/vyA89FyCfn).
 
 ## How much we are asking?
 
