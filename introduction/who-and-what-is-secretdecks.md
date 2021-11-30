@@ -48,6 +48,6 @@ The seeds of the Tarot metaverse will be planted within the applications listed 
 * SD-"SHARE" - p2p collectible trade, to help complete collections
 * SD-"STAKING" - stake your NFT to receive rewards from SD-SPO
 
-In order to fast-track development, offer remuneration to the handful of people who have been working on this the past 6 months, and to test the distributed contribution reward mechanism, SecretDecks decided to do a **Founders Drop** **on Cardano with a limited supply of 333 pieces **with three different rarity tiers**. **The drop will happen** **in October, for the exact date follow us on [Twitter! ](https://twitter.com/SecretDecks)or join our [Discord](https://discord.gg/V4UXUuXNYW)!
+In order to fast-track development, offer remuneration to the handful of people who have been working on this the past 6 months, and to test the distributed contribution reward mechanism, SecretDecks decided to do a **Founders Drop** **on Cardano with a limited supply of 333 pieces** with three different rarity tiers**.** The drop will happen **** in Winter 2021/22, for the exact date follow us on [Twitter! ](https://twitter.com/SecretDecks)or join our [Discord](https://discord.gg/V4UXUuXNYW)!
 
 #### For more information on the Founders Drop [tap here](the-founders-drop.md).

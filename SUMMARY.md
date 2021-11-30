@@ -26,6 +26,7 @@
 * [Tales of the Tarot 🚧under construction🚧](sd-metaverse-content/tales-of-the-tarot.md)
 * [Legends of Thoth](sd-metaverse-content/legends-of-thoth.md)
 * [Book of Thoth: Page 0](sd-metaverse-content/book-of-thoth-page-0.md)
+* [Book of Thoth: Page 1](sd-metaverse-content/book-of-thoth-page-1.md)
 
 ## Roadmap Arcana
 
@@ -35,7 +36,7 @@
 * [II - The High Priestess](roadmap-arcana/ii-the-high-priestess.md)
 * [III - The Empress](roadmap-arcana/iii-the-empress.md)
 
-## LEGACY // DAO Brainstorms  <a href="dao-brainstorms" id="dao-brainstorms"></a>
+## LEGACY // DAO Brainstorms  <a href="#dao-brainstorms" id="dao-brainstorms"></a>
 
 * [LEGACY // Where are we now ?](dao-brainstorms/untitled.md)
 * [LEGACY // Where do we want to go ?](dao-brainstorms/where-do-we-want-to-go.md)
