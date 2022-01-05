@@ -13,7 +13,7 @@ Hermopolis an Egyptian city with an ancient god cult of eight frog and serpent d
   * some sources mention him emerge out of Indian monkey god Hanuman
 * Thoth is responsible for everything requiring mental or intellectual performance
   * creator of math, calendar, hieroglyphs&#x20;
-  * his temple is famous for a huge library hidden in endless catacombs _(pop reference: Asimovs Foundation & Empire :_The Salvor Hardin Museum of Origins_ on Terminus!) _of mysterious papyrus scrolls written by Thoth himself; holding all knowledge & wisdom of the world
+  * his temple is famous for a huge library hidden in endless catacombs _(pop reference: Asimovs Foundation & Empire :_The Salvor Hardin Museum of Origins _on Terminus!)_ of mysterious papyrus scrolls written by Thoth himself; holding all knowledge & wisdom of the world
 * During Hellenism Thoth was transmuted into Hermes Trismegistus - the threefold wise (more myth than god)
 
 ### Trismegistus and the Hermetic Tradition
@@ -26,4 +26,4 @@ __
 
 #### _Sources:_
 
-__[_"Schule des Tarot - Band 1" - Hans Dieter Leuenberger_](https://www.goodreads.com/book/show/17166596-schule-des-tarot-band-1)_ (p. 45 ff.)_
+__[_"Schule des Tarot - Band 1" - Hans Dieter Leuenberger_](https://www.goodreads.com/book/show/17166596-schule-des-tarot-band-1) _(p. 45 ff.)_

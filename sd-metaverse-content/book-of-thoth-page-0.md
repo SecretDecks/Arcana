@@ -96,7 +96,7 @@ XXI shows cosmos in utter order & harmony, filled with life; the true being of t
 
 * 0 as unit of chaos, containing everything in disorder;
 * Myths of natives tell about creation out of chaos, where all building blocks, needed to conjure all of cosmic creations, are available;
-* Chaos just _is, _the chaos Fool jumps in is pure **istness**&#x20;
+* Chaos just _is,_ the chaos Fool jumps in is pure **istness**&#x20;
 *   In eastern teachings TANTRA (net, loom) \[everything is connected in cosmos even in chaos]
 
     &#x20;\= "istness"
@@ -111,5 +111,5 @@ in awe, openness, new begin
 
 #### Sources
 
-[_"Schule des Tarot - Band 1" - Hans Dieter Leuenberger_](https://www.goodreads.com/book/show/17166596-schule-des-tarot-band-1)_ (p. 291 ff.)_
+[_"Schule des Tarot - Band 1" - Hans Dieter Leuenberger_](https://www.goodreads.com/book/show/17166596-schule-des-tarot-band-1) _(p. 291 ff.)_
 

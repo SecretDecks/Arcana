@@ -27,7 +27,7 @@ IF ALL LEGENDARY AND RARE CARDS ARE MINTED, the drop level stays the same or we 
 
 For a full deck: during the first 78 minutes a pull will cost 22 ADA and there's a 1:78 chance to get a rare and a 1:780 chance to get a legendary. For the next 77 minutes, a pull will cost 23 ADA and there's a 1:77 chance to get a rare and a 1:770 chance to get a legendary. This goes on until the 57th level when the time limit is 22 minutes - the price jumps up to 99 ADA per pull, with a 1:22 chance for a rare and 1:220 chance for a legendary. At the final level there's a time limit of 1 minute and a cost of 160 ADA, with a 1:1 chance for a rare and 1:10 chance for a legendary.
 
-![Major Arcana only deck drop](<../.gitbook/assets/Screenshot 2021-09-18 at 15.32.02 (1).png>)
+![Major Arcana only deck drop](<../../.gitbook/assets/Screenshot 2021-09-18 at 15.32.02 (1).png>)
 
-![Full deck drop](<../.gitbook/assets/drop-calctable (1).jpg>)
+![Full deck drop](<../../.gitbook/assets/drop-calctable (1).jpg>)
 

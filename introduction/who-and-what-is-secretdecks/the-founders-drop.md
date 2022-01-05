@@ -6,9 +6,9 @@ description: What are Founder Elements?
 
 #### Lore of the mysterious elements
 
-_A colony of mysterious mental elements have been conjured into the metaverse. When approached, they transmit images that leave the impression of things hidden in another dimension. Are they alive? What do they want? _
+_A colony of mysterious mental elements have been conjured into the metaverse. When approached, they transmit images that leave the impression of things hidden in another dimension. Are they alive? What do they want?_&#x20;
 
-_We inquired carefully and they told us all they want are new homes and to show gratitude. The objects won't budge and cover large parts of the foundation of where SecretDecks is planning to build. _
+_We inquired carefully and they told us all they want are new homes and to show gratitude. The objects won't budge and cover large parts of the foundation of where SecretDecks is planning to build._&#x20;
 
 _**We kindly ask the Cardano community to help us find new homes for these peculiar beings; they will be eternally grateful.**_
 
@@ -29,17 +29,17 @@ The highest tier will be quite pricy at 156 ADA and limited to only 33 pieces.&#
 
 That's 333 pieces in total for a sum of 18558 ADA.
 
-![](<../.gitbook/assets/Screenshot 2021-09-11 at 18.28.16.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-11 at 18.28.16.png>)
 
 ### What kind of Lambo will we buy?
 
 If we sell out all pieces, this is what we'll do with the funds:
 
-![](<../.gitbook/assets/Screenshot 2021-09-13 at 11.13.55.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-13 at 11.13.55.png>)
 
 #### A legal entity for what?!
 
-Even distributed operations need to engage with the legacy system in order to hold assets like domains, accept fiat donations, open bank accounts (for fiat ramps) or write invoices for service providers and freelancers. SecretDecks is looking into [Purpose Driven Companies](https://stiftung-verantwortungseigentum.de) and depending on available funds, is either setting up something like a _"Verein" _(association) (less funds) or a _"GmbH" (_German LTD_) _ with a golden share ticket held by the _"Purpose Stiftung" _to exact veto rights and validate the purpose trajectory.
+Even distributed operations need to engage with the legacy system in order to hold assets like domains, accept fiat donations, open bank accounts (for fiat ramps) or write invoices for service providers and freelancers. SecretDecks is looking into [Purpose Driven Companies](https://stiftung-verantwortungseigentum.de) and depending on available funds, is either setting up something like a _"Verein"_ (association) (less funds) or a _"GmbH" (_German LTD_)_ with a golden share ticket held by the _"Purpose Stiftung"_ to exact veto rights and validate the purpose trajectory.
 
 #### What's an artist incubator you might ask?&#x20;
 

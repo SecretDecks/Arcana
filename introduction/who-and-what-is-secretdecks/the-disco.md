@@ -16,31 +16,31 @@ DisCo is a more human focused spin on a DAO, decentralised autonomous organisati
 
 _Editing, artist outreach, community care work_
 
-![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.39.09.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-19 at 21.39.09.png>)
 
 ### Stephen
 
-_aka REPO-MAN; quality assurance, system automation, documentation, token design; _
+_aka REPO-MAN; quality assurance, system automation, documentation, token design;_&#x20;
 
-![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.40.22.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-19 at 21.40.22.png>)
 
 ### Tyler
 
 _UX, product management, CoopDev (previously BizDev)_
 
-![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.39.43.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-19 at 21.39.43.png>)
 
 ### GianLuca (left the DisCo in October 2021)
 
 _Web development, DevOps, art direction_
 
-![](<../.gitbook/assets/Screenshot 2021-09-19 at 22.12.17.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-19 at 22.12.17.png>)
 
 ### Dan&#x20;
 
 _Secretary, copywriting, product management, other stuff_
 
-![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.40.15.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-19 at 21.40.15.png>)
 
 
 
@@ -54,7 +54,7 @@ _Secretary, copywriting, product management, other stuff_
 
 _UX, web design, brand design_
 
-![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.49.21.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-19 at 21.49.21.png>)
 
 ## Tarot Artists
 
@@ -64,5 +64,5 @@ To be revealed soon
 
 ### Mars V.
 
-![](<../.gitbook/assets/Screenshot 2021-09-19 at 21.39.28.png>)
+![](<../../.gitbook/assets/Screenshot 2021-09-19 at 21.39.28.png>)
 

@@ -10,7 +10,7 @@ SecretDecks is a colourful collective of mindful spirits who work towards leavin
 
 We're not a company or a team. We are a distributed cooperative, [DisCo](https://disco.coop/manifesto/) for short
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 ### What is SecretDecks?
 
@@ -32,11 +32,11 @@ We value everyone's perspective and input. Help us shape SecretDecks in a collab
 
 Anyone from lurker to NFT collector, artist or builder - (seriously, just about anyone) can go through the onboarding process. Approved members are rewarded after tasks are done and their contribution is validated by peers. Additionally we use SourceCred to track intangible contributions and reward community care work by distributing a social currency we call Can-D. This currency can be earned by actively engaging in Discord and GitHub. It soon will allow for more voting power and after a certain threshold makes eligible for ADA rewards.
 
-![](<../.gitbook/assets/Contributions flow.jpg>)
+![](<../../.gitbook/assets/Contributions flow.jpg>)
 
 Successively, each member is attributed (voting) power on a merit basis. A basic polling system is in place and will soon be extended with a blockchain recorded voting process. Distributed decision making tools and processes will be piloted and iterated until comprehensive parts can be published under OpenSource licenses.
 
-![How decisions flow](<../.gitbook/assets/Voting Flow.jpg>)
+![How decisions flow](<../../.gitbook/assets/Voting Flow.jpg>)
 
 ### Metaverse dApps!
 

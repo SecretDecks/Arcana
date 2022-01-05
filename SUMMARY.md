@@ -5,28 +5,28 @@
 ## Introduction
 
 * [💠 Mindfulness Policy](introduction/mindfulness-policy.md)
-* [Who & What is SecretDecks?!](introduction/who-and-what-is-secretdecks.md)
-* [The DisCo](introduction/the-disco.md)
-* [The Stake Pool](introduction/the-stake-pool.md)
+* [Who & What is SecretDecks?!](introduction/who-and-what-is-secretdecks/README.md)
+  * [The DisCo](introduction/who-and-what-is-secretdecks/the-disco.md)
+  * [The Stake Pool](introduction/who-and-what-is-secretdecks/the-stake-pool.md)
+  * [The Founders Drop](introduction/who-and-what-is-secretdecks/the-founders-drop.md)
 * [Calling Creators!](introduction/calling-creators.md)
-* [Tarot & the Self  🚧under construction🚧](introduction/tarot-and-self.md)
-* [The Founders Drop](introduction/the-founders-drop.md)
 * [FAQ](introduction/faq.md)
 
 ## SD dApp Metaverse
 
-* [The Tarot metaverse experience](sd-dapp-metaverse/the-tarot-metaverse-experience.md)
-* [SecretDecks: SUMMONS](sd-dapp-metaverse/secretdecks-drops.md)
-* [SecretDecks: READINGS 🚧under construction🚧](sd-dapp-metaverse/secretdecks-readings.md)
+* [The Tarot metaverse experience](sd-dapp-metaverse/the-tarot-metaverse-experience/README.md)
+  * [SecretDecks: SUMMONS](sd-dapp-metaverse/the-tarot-metaverse-experience/secretdecks-drops.md)
+  * [SecretDecks: READINGS 🚧under construction🚧](sd-dapp-metaverse/the-tarot-metaverse-experience/secretdecks-readings.md)
 
 ## SD-Metaverse Content
 
 * [SD - Metaverse Elements](sd-metaverse-content/sd-metaverse-elements.md)
-* [Tarot in Cyphers 🚧under construction🚧](sd-metaverse-content/tarot-in-cyphers.md)
-* [Tales of the Tarot 🚧under construction🚧](sd-metaverse-content/tales-of-the-tarot.md)
 * [Legends of Thoth](sd-metaverse-content/legends-of-thoth.md)
 * [Book of Thoth: Page 0](sd-metaverse-content/book-of-thoth-page-0.md)
 * [Book of Thoth: Page 1](sd-metaverse-content/book-of-thoth-page-1.md)
+* [Tarot & the Self  🚧under construction🚧](sd-metaverse-content/tarot-and-self.md)
+* [Tales of the Tarot 🚧under construction🚧](sd-metaverse-content/tales-of-the-tarot.md)
+* [Tarot in Cyphers 🚧under construction🚧](sd-metaverse-content/tarot-in-cyphers.md)
 
 ## Roadmap Arcana
 
