@@ -122,12 +122,12 @@ _More on the pentagram in later publications._
 
 The posture of the magician is upright like the staff in this hand signalling force of creation - the fire or phallic force. The image of a man just after realising in his self and that he can accomplish anything with the tools provided a very male human aspect of life. Recognise how the I (also known as “the creative word”) looks like a staff itself. The two endpoints of the staff in his hand and the two colours of his garment show that the force is available can be both positive or negative, corresponding to the law of polarity both are in and around you just two forms of existence of the same force. For example one day is half light and half night.&#x20;
 
-### Magician Summary
+## Magician Summary
 
 Magus as a symbol of the human experience in its masculine form, further emphasised by his pose as well as the staff and sword on the table lying closest to him. The table signifying the material realm to be acted in. By using the magical tools the primordial forces within are channelled to order and create. Thus the Lemniskate (infinity symbol, lying 8) plastered all over the page, expressing the notion that _every want is a new beginning_.\
 This experience is not exclusive to humans of the male gender, masculine and feminine energies are a common denominator of the human experience and reside in each and every one of us. Balancing them is the art of living.
 
-### _The Esoteric Experience_
+## _The Esoteric Experience_
 
 The four elements are magical tools given to the magician for him to work with. Not periodic, chemical elements, those are the primordial parts of matter. What is meant by elements are primordial parts of our complete world, the Cosmos, the whole cosmic experience.&#x20;
 
