@@ -8,7 +8,9 @@ description: ENTER THE TAROT METAVERSE EXPERIENCE
 
 SecretDecks is a colourful collective of mindful spirits who work towards leaving this dimension a better place. Discovering and exploring new tools for self organising communities is our common motivation. All members share an agreed upon values, defined in the [Mindfulness Policy](https://github.com/SecretDecks/Documentation/blob/main/Mindfulness-Policy.md), which sets the base vibration of our work.&#x20;
 
-We're not a company or a team. We are a distributed cooperative, [DisCo](https://disco.coop/manifesto/) for short
+We're not a company or a team. We are a distributed cooperative, [DisCo](https://disco.coop/manifesto/) for short.
+
+#### Currently all our funding comes from the Cardano Catalyst Community. Check out our [Proposals here](https://secretdecks.gitbook.io/catalyst-proposals/).
 
 ![](<../../.gitbook/assets/image (1).png>)
 
