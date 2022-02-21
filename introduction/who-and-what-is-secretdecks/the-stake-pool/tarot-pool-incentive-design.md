@@ -7,7 +7,7 @@ description: Why anyone should delegate to the TAROT pool
 #### The number one reason besides supporting the SecretDecks mission is to receive personal Tarot readings!
 
 * Access to a reading is granted with a _**READINGS NFTicket.**_&#x20;
-* Delegators with stake above 100k will receive a **NFticket** every 6 epochs_**.**_
+* the first 10 Delegators with stake above 100k will receive a **NFticket** every 6 epochs_**.**_
 * All other delegators are able to exchange 33 **TAROT** tokens for one _**READINGS NFTicket.**_
 
 ![](<../../../.gitbook/assets/DisCoTec - TAROT Pool incentive design\_final.jpg>)
@@ -22,3 +22,11 @@ A setup guide for the wallet registration will be available by end of February.
 The amount of tokens increases in a Fibonacci like sequence:
 
 ![](<../../../.gitbook/assets/Screenshot from 2022-02-22 00-03-29.png>)
+
+### TAROT Tokenomics
+
+**Maximum supply is 22 million**
+
+* 10% (2.20M) for delegations&#x20;
+* 10% (2.20M) for other incentives (raffles & non financial remunerations)
+* 80% (17.6M) held in reserve
