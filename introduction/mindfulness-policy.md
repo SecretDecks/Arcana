@@ -26,7 +26,7 @@ We entertain the idea that this planet is a living organism, a holistic system -
 
 ## Footnotes
 
-[Game A](https://www.gameb.wiki/index.php?title=Game\_A) & [Game B](https://www.gameb.wiki/index.php?title=Game\_B) from the [Game B wiki](https://www.gameb.wiki)
+[Game A](https://www.gameb.wiki/index.php?title=Game\_A) & [Game B](https://www.gameb.wiki/index.php?title=Game\_B) from the [Game B wiki](https://www.gameb.wiki/)
 
 * Game A is primarily characterized by scarcity and thus rivalrous or win-lose dynamics; a kind of predatory capitalism
 * Game B is the flag on the hill for an omni-win civilization that maximizes human flourishing

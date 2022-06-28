@@ -6,7 +6,7 @@
 
 ### What the pledge?
 
-For the pledge of **2500 ADA** two of the DisCo members created a **loan agreement as a NFT** (called LoaNFT) - a rough proof of concept. The borrower asked for 2000 ADA and offered two [_unsigned algorithm_](https://www.unsigs.com) _(unsig)_ NFTs as collateral. Since both lender and borrower know each other well it was possible to facilitate this without a validator (smart contract).&#x20;
+For the pledge of **2500 ADA** two of the DisCo members created a **loan agreement as a NFT** (called LoaNFT) - a rough proof of concept. The borrower asked for 2000 ADA and offered two [_unsigned algorithm_](https://www.unsigs.com/) _(unsig)_ NFTs as collateral. Since both lender and borrower know each other well it was possible to facilitate this without a validator (smart contract).&#x20;
 
 #### LoaNFT flow
 

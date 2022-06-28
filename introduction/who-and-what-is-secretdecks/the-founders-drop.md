@@ -39,7 +39,7 @@ If we sell out all pieces, this is what we'll do with the funds:
 
 #### A legal entity for what?!
 
-Even distributed operations need to engage with the legacy system in order to hold assets like domains, accept fiat donations, open bank accounts (for fiat ramps) or write invoices for service providers and freelancers. SecretDecks is looking into [Purpose Driven Companies](https://stiftung-verantwortungseigentum.de) and depending on available funds, is either setting up something like a _"Verein"_ (association) (less funds) or a _"GmbH" (_German LTD_)_ with a golden share ticket held by the _"Purpose Stiftung"_ to exact veto rights and validate the purpose trajectory.
+Even distributed operations need to engage with the legacy system in order to hold assets like domains, accept fiat donations, open bank accounts (for fiat ramps) or write invoices for service providers and freelancers. SecretDecks is looking into [Purpose Driven Companies](https://stiftung-verantwortungseigentum.de/) and depending on available funds, is either setting up something like a _"Verein"_ (association) (less funds) or a _"GmbH" (_German LTD_)_ with a golden share ticket held by the _"Purpose Stiftung"_ to exact veto rights and validate the purpose trajectory.
 
 #### What's an artist incubator you might ask?&#x20;
 
