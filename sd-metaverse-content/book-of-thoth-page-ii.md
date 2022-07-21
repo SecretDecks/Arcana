@@ -4,25 +4,25 @@
 
 ### What is seen
 
-The second image shows a woman in a long white-blue dress, that seems to flow, sitting on a stone block. On her head she's wearing a crownlike prece of jewelry. The chest adorned with a white cross and in her lap, half covered by her gown lies a scroll with the word TORA written on it. At her feet lies a crescent moon. The high priestess sits between two pillars, a black one on the left with the letter B, and a white one on the right with the letter J on it. Between both pillars a curtain stretches, on it are pomegranates and palm trees depicted. Behind the curtain one can glimpse the sea.
+The second image shows a woman in a long white-blue dress, that seems to flow, sitting on a stone block. On her head she's wearing a crown like piece of jewelry. The chest adorned with a white cross and in her lap, half covered by her gown lies a scroll with the word TORA written on it. At her feet lies a crescent moon. The high priestess sits between two pillars, a black one on the left with the letter B, and a white one on the right with the letter J on it. Between both pillars a curtain stretches, on it are pomegranates and palm trees depicted. Behind the curtain one can glimpse the sea.
 
 #### Comparison Magician & High Priestess
 
-The posture of the Magician Clmay I) is active, wanting, the posture of the hiigh Priestess is passive, reserved. The Magicians attention is focused on the four magical tools infront of him. The High Priestess is looking for a connection to the one viewing the image (page), as if she's expecting 5th. that's coming at her.
+The posture of the Magician Clmay I) is active, wanting (desiring ?), the posture of the high Priestess is passive, reserved. The Magician's attention is focused on the four magical tools in front of him. The High Priestess is looking for a connection to the one viewing the image (page), as if she's expecting 5th. that's coming at her. (expecting a 5th to come to her ?)
 
 #### Experience what is seen!
 
-Let your sensations & emotions guide your gaze around the image/page. Initially grasp only the outer form of the image, without thinking what it could mean. you'll maybe discover how the form of the image is constructed from a contrast of hard and soft. The softness to be found in the flowing garment, the crescent moon, the flower motif of the curtain and the depth of the sea hidden behind. The figure itself and the two pillars both as well as the block of stone all embodying hardness. Dive into these sensational contrasts and pay attention tothe emotions emerging from within and becoming awake inside of you. Once you found these emotions, you may continue exploring details and symbols of the image.
+Let your sensations and emotions guide your gaze around the image/page. Initially grasp only the outer form of the image, without thinking what it could mean. You  may discover how the form of the image is constructed from a contrast of (the) hard and soft. The softness to be found in the flowing garment, the crescent moon, the flower motif of the curtain and the depth of the sea hidden behind. The figure itself and the two pillars both as well as the block of stone all embodying hardness. Dive into these sensational contrasts and pay attention to the emotions emerging from within and becoming awake inside of you. Once you found these emotions, you may continue exploring details and symbols of the image.
 
 ### Interpreting Structure
 
-Already the whole structure expresses the duality as opposing poles; in contrast to the first images' unity. This polarity can be found throughout the imagery the dark I light of the pillars, the rigidity of the woman's shape and the soft flowing of her gown. Looking at the **two pillars** and employing the Bible it's safe to state those are the pillars in front the Temple of Solomon and were called Jachin and Boas. Boas means "in strength" and Jachin "to erect". Synthesising both words could lead to the term stability. This is an important statement on about the contrast of polarity. One pole alone can't exist by itself. If something is to be ongoing and last, have stability, then it requires the union of two opposites.
+Already the whole structure expresses the duality as opposing poles; in contrast to the first images' unity. This polarity can be found throughout the card's imagery. In the dark and light of the pillars, the rigidity of the woman's shape and the soft flowing of her gown. Looking at the **two pillars** and referencing the Bible it's safe to state those are the pillars in front the Temple of Solomon. These were called Jachin and Boas. Boas means "in strength" and Jachin "to erect". Synthesising both words could lead to the term stability. This is an important statement on about the contrast of polarity. One pole alone can't exist by itself. If something is to be ongoing and last, have stability, then it requires the union of two opposites.
 
 #### Unity of opposites
 
-The Man Magician is only one side of the human experience. Man or woman only by themselves (Male or female energy) can't claim to have / be the full human experience. Male and female (energies) together form the human experience.
+The Man Magician is only one side of the human experience. Man or woman only by themselves (male or female energy) can't claim to have / be the full human experience. Male and female (energies) together form the human experience.
 
-This fact is also expressed in the Bible \[Book 1 Moses, 27): w. The word I'd in the original Hebrew text is written as ELOHIM. According to the structure of the Hebrew language the word ELOHIM expresses a plurality. ELOHIM is thus not a singular - being, but (at least) a dual being. That's why a human must express this duality, if he wants to see himself fashioned after the image of god.
+This fact is also expressed in the Bible \[Book 1, Moses 27): w. The word I'd in the original Hebrew text is written as ELOHIM. According to the structure of the Hebrew language the word ELOHIM expresses a plurality. ELOHIM is thus not a singular being, but (at least) a dual being. That's why a human must express this duality, if he wants to see himself fashioned after the image of god.
 
 Already here we discover how no image (page) of the Tarot exist by itself. Every image has an inherent message, however the Tarot really starts talking once the individual images are connected!
 
@@ -37,7 +37,7 @@ This union in duality is embodied in the two pillars Boaz & Jachin. A huge amoun
   * As son of god, the logos, the word made flesh she's in same parts divine as human
 * Different variations:
   * same length, intersect in middle = natural cross (4 elements)
-  * longer vertical down Calaviercross) = unity of opposites through sacrifice
+  * longer vertical down <mark style="color:red;">Calaviercross)</mark> = unity of opposites through sacrifice
   * Handle cross: endemic to Egypt, unity of Yoni and Lingam; infinite life, that was, is and will be
 
 #### Isis, Maria & Hathor: What the godmother can tell us
@@ -51,7 +51,7 @@ This union in duality is embodied in the two pillars Boaz & Jachin. A huge amoun
 * Acceptance and identification with the feminine principle means being sheltered / safeguarded within the cosmos, symbolised through the "Himmelsgewölbe"; to be placed under motherly safety of its order and receive milk, nourishment necessary for humans to live.
 * Horns with sidical form also portray the phases of the moon thus, the headpiece also resembles the phases of the moon
 * Change of the moon phase in 28 days, same as women's menstruation rhythm
-* huge yellow moon sicle is continuing moon symbolic, resembling imagery of virgin Mary with Jesus on a sidical moon as often seen in middle ages
+* The huge yellow moon sicle continues the moon symbolism, resembling imagery of virgin Mary with Jesus on a sidical moon as often seen in middle ages
 * this "unifying" symbology could mean the Christians' Virgin Mary emerged from Hathor and Isis respectively, embodying same principles
 * High Priestess embodies feminine principle, also portrayed by the moon
 * Intertwining of the lunar with the feminine can also be found in colors and design of her clothing / gown
@@ -90,7 +90,7 @@ Thus there's always direct or indirect sexual symbolic expressed in the Tarot, W
 * **the palm tree** has many meanings; for one symbolised by the staff and all the inherent meanings of it
 * also a symbol for eternal life, the resurrection of ever renewing life
 * for C.G. Jung the palm tree symbolises the soul or Anima; _Anima_ and her encompassing meaning is the theme of the second image of the TAROT
-* life can only be created / manifest and continually renew itselfwhere polarity is united and overcome the concept of two combating energies is overcome; life can only be created / manifest and continually renew itselfwhere polarity is united and overcome the concept of two combating energies is overcome; this law is once more symbolized in the pattern of the curtain
+* life can only be created / manifest and continually renew itself where polarity is united and overcome the concept of two combating energies is overcome; life can only be created / manifest and continually renew itself where polarity is united and overcome the concept of two combating energies is overcome; this law is once more symbolized in the pattern of the curtain
 * in ancient Egypt palm tree was a symbol for the tree of life; whoever watches closely will recognise the tree of life in the order of the pomegranates are placed
 * Death as head of priestess, the cross is Tipharet, Tora = Jesod, Stone = Malkuth
 * makes nod to old Jewish temple rites: once a year high priest would step through curtain into the inner holy temple room (cube shaped) where he muttered the unspeakable name of the holy one-
