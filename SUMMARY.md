@@ -16,8 +16,11 @@
 ## SD dApp Metaverse
 
 * [The Tarot metaverse experience](sd-dapp-metaverse/the-tarot-metaverse-experience/README.md)
+  * [SecretDecks: TAROT HANDBOOK 🚧wip🚧](sd-dapp-metaverse/the-tarot-metaverse-experience/secretdecks-tarot-handbook-wip/README.md)
+    * [Temporal Draws](sd-dapp-metaverse/the-tarot-metaverse-experience/secretdecks-tarot-handbook-wip/temporal-draws.md)
   * [SecretDecks: SUMMONS](sd-dapp-metaverse/the-tarot-metaverse-experience/secretdecks-drops.md)
-  * [SecretDecks: READINGS 🚧under construction🚧](sd-dapp-metaverse/the-tarot-metaverse-experience/secretdecks-readings.md)
+  * [SecretDecks: READINGS 🚧wip🚧](sd-dapp-metaverse/the-tarot-metaverse-experience/secretdecks-readings.md)
+  * [SecretDecks: SOULJOURNAL🚧wip🚧](sd-dapp-metaverse/the-tarot-metaverse-experience/secretdecks-souljournal-wip.md)
 
 ## SD-Metaverse Content
 
