@@ -18,7 +18,7 @@ _<mark style="color:purple;">\[purple = in progress / review]</mark>_
 
 * Introduction of esoteric practice
 * Introduction of exoteric play
-* Practice tools: temporal focused draw
+* Practice tools: [<mark style="color:purple;">temporal focused draw</mark>](temporal-draws.md)<mark style="color:purple;"></mark>
 * Practice tools: event focused draw
 * Practice tools: spread schemes/patterns
 * Play tools: Carnival readings
@@ -30,7 +30,7 @@ _<mark style="color:purple;">\[purple = in progress / review]</mark>_
 
 ### _Introduction to Practice 🚧wip🚧_
 
-### [Practice Tool: Temporal Draw](./#practice-tool-temporal-draw)
+### [Practice Tool: Temporal Draw](temporal-draws.md)
 
 ### _Practice Tool: Event Draw 🚧wip🚧_
 

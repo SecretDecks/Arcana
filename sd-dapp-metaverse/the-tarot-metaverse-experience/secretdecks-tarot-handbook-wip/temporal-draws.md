@@ -1,132 +1,97 @@
 # Temporal Draws
 
-### Knowledge Primer
+## 0 - Knowledge Primer
 
 * YouTube links: Tarot in 2 hours [1st part](https://youtu.be/\_NDuHfxp0NQ) & [2nd part](https://youtu.be/OihL6kg-2mU)
 * Book recommendations (optional): H. Baznhaf: [The Heroes Journey](https://www.goodreads.com/en/book/show/242532.Tarot\_and\_the\_Journey\_of\_the\_Hero) (Major Arcana in reference to Jungian psychology); [The Tarot Handbook](https://www.goodreads.com/book/show/867202.The\_Tarot\_Handbook?from\_search=true\&from\_srp=true\&qid=l8fGNyc7ge\&rank=2) (good for quick references, not ideal for studying!); Dion Fortune: [The Mystical Qabalah](https://www.goodreads.com/book/show/59627531-the-mystical-qabalah?from\_search=true\&from\_srp=true\&qid=Tn76yygb3w\&rank=12) (Qabalah, Astrology & Tarot working together)
 
-### Setup and shuffle a DAILY DRAW
+## I - Setup, Shuffle & Draw
 
-\[_<mark style="color:green;">applicable to all temporal techniques</mark>_]
+_<mark style="color:orange;">\[applicable for DAILY DRAW]</mark>_ ; _<mark style="color:green;">\[applicable to all temporal techniques]</mark>_
 
-#### Do 's for setup
+### Do 's for SETUP
 
-• Ideally within first 2 hours of waking up )
+**When to do it?** <mark style="color:orange;">Ideally within first 2 hours of waking up, but theoretically can be done at anytime during the day</mark>
 
-to make time space for at least 15min , in order
+**How to do it?** <mark style="color:orange;">Make timespace for at least 15 min, in order not to strain the communication process between your conscious and sub-conscious</mark>. <mark style="color:green;">Turn off your smartphone and try not to be close to electronic devices creating artificial energy fields like TV screens or microwaves.</mark>
 
-not to pressure the communication process ]
+<mark style="color:green;">Depending on your ability or inability to focus with noise around you, looking for a more silent environment might be advantageous.</mark>
 
-& turn off notifications and try not to be close
+### **Do 's for SHUFFLE**
 
-to magnetic fields ( artificial ) like TV screens or
+<mark style="color:green;">In case you only have little space , it's possible to shuffle in your hands while standing, if you feel like it you can cut the deck as well. When you have lots of space to shuffle (eg . a large table) you can spread the cards around and shuffle them by gliding your hands over the cards with just enough pressure to move them around</mark>
 
-microwaves ]
+<mark style="color:orange;">While doing so, look inwards and ask: "What will today bring?" or " what's the challenge for the day? " or " How can I make the most of today?". You ask once , then let thoughts and images appear and disappear without holding on '. You will feel it when you're done shuffling.</mark>
 
-⑥ depending on your ability to focus with noise around you ,
+### <mark style="color:green;">Do 's for DRAW</mark>
 
-in case You 're having trouble concentrating with noise
+I like to hover with with my left hand over the cards , pointing with my middle finger (some use other digits ), while looking at the card being pointed at. There 'll be tingling or other sensations when a meaningful card is being hovered over (or is in proximity). The stronger the sensation the  better (more precise) the quality of the response.
 
-it's advisable to look for a more silent environment
+## II - Look & Feel
 
-when drawing ]
+_<mark style="color:green;">\[applicable to all temporal techniques]</mark>_
 
-A- Do 's for shuffling
+### <mark style="color:green;">Do 's for Look & Feel</mark>
 
-I - in case you only have little space , it's possible to shuffle in hands
+**Look inside** and feel **what "moves":** what emotions emerge or sensations can be felt and where. Try to **articulate** feelings that might come up, but **without** **explaining** why or from where. **Take** fast **notes** on what moves, they are **important**!
 
-while standing i then . . . ] cut !
+## III -  Analyse & Interpret
 
-E if you have lots of space to shuffle leg . a large table ) you can spread
+_<mark style="color:green;">\[applicable to all temporal techniques]</mark>_
 
-the cards around and shuttle them by gliding your hands
+### Do 's for Analyse
 
-over the cards with just enough pressure to move them :
+#### <mark style="color:green;">Define type of card and reference:</mark>&#x20;
 
-( while doing so , you look inwards and ask yourself : " what will today bring ? " or " what's my challenge for the day ? " or " how can I make the most of today ,
+#### General / Macro themes of Minor Arcana number cards
 
-you ask once , then let thoughts and images appear and disappear without holding on ' ; you will feel when you're done
+**Number** **cards** always give insight into how the energy manifests that is perceived from "the outside".&#x20;
 
-shuffling . I
+The Minor Arcana's number (eg **II** of Cups) is referencing the respective Major Arcana (in this case III The High Priestess - Archetype: The divine Feminine) as well as the 3rd Sephira on the Tree of Life (in this case Chockmah "Wisdom"). The Major Arcana's and Sephira's energy signature (or quality) can be found in the II of Cups, respectively how those signatures interact with the element water and its qualities.&#x20;
 
-\+ Do 's for drawing :
+#### General / Macro themes of Minor Arcana court cards
 
-I . I like to hover with with my left hand over the cards , pointing
+**Court cards** show on what plane the energy is having an effect. The court is referencing on what plane (of the Tree of Life) the energy is having an effect. The four plane's features are interwoven with one of the four elements (depending on the suite).&#x20;
 
-with my middle finger ( some ise other digits ) audtrate while
+<details>
 
-looking at the card being pointed at . There 'll be tingling or
+<summary>Energy Planes </summary>
 
-other sensations when a meaningful card is being hovered over ( or
+1. ("_highest_") **Atziluth** - World of emanation, divine, faculty of intuition
+2. **Beri'ah** / Briah - World of creation, spirit, faculty of feeling
+3. **Yetzirah** - World of formation, psyche, faculty of thinking
+4. ("_lowest_") **Assiah** - World of manifestation, body, faculty of sensation
 
-near ) ; the stronger the sensation the more better the quality of
+</details>
 
-the response ) tonguing .
+#### General / Macro themes of Major Arcana&#x20;
 
-2\) Look and feel
+**Major Arcana** are always referencing an energetic event or a challenge perceived from "within"
 
-\+ Do 's for first interaction :
+They usually correlate to an Archetype and a step in the _Heroes Journey_
 
-I . look inside and feel what moves , what
+[See Book of Thoth: Page 0](../../../sd-metaverse-content/book-of-thoth-page-0.md) ff.
 
-emotions emerge or sensations can be felt and where i try to articulate
+#### Symbology
 
-feelings that might come up , but without explaining why or from where )
+After general theme is understood a deep dive into the individual symbology is required. Equipped with the knowledge primer and a learning tool of choice (for me its taking pen and paper notes) you can now tackle the most difficult part. Difficult because how it's need to decipher relevant meanings behind all symbols that can made out in the image. Don't stress, if it's just two or three in the beginning, this is absolutely fine and you 'll get better fast!&#x20;
 
-3\) I take notes quickly on what moves
+TAKE NOTES and bring them loosely into the context of your inquiry.
 
-4\) Analyse and interpret
+### <mark style="color:green;">Do's for Interpret</mark>
 
-\+ Do 's for reading amp age from the Book of Thoth
+After all individual symbols have been mapped, it's time to conjure the precise response through a concert of all mapped symbols.
 
-\[ • type of card : Major Arcana ( referencing an energetic
+#### _**Examples from the SecretDecks Discord**_
 
-event " within " ) ; Minor ( either court or number ) ,
+![](<../../../.gitbook/assets/Screenshot from 2022-07-22 17-16-10.png>)
 
-court : what plane energy manifests i number in what form
+![](<../../../.gitbook/assets/Screenshot from 2022-07-22 17-15-51.png>)
 
-\*
+![](<../../../.gitbook/assets/Screenshot from 2022-07-22 17-15-37.png>)
 
-Minor Arcana
+![](<../../../.gitbook/assets/Screenshot from 2022-07-22 17-15-12.png>)
 
-I. Dot general / macro themes of card : number - referencing Major Arcana
+Now 's the time to employ the personal notes (what moves and individual symbology) from before as a conductor of the concert !&#x20;
 
-and Tree of life / Saphira i both energy signatures can be found
-
-in the respective number card
-
-court - referencing Kabbalistic planes of the tree of life , each
-
-energy quality reflected in the respective court card / element
-
-E macro themes of Major Arcana : Archetypes and Heroes Journey
-
-I. matter general theme is understood , nest is to dive into the
-
-individual symbology . Equipped with the knowledge primer and
-
-a learning tool of choice ( for me its taking pen and paper notes )
-
-this is the most difficult part , since you how need to decipher
-
-relevant meanings behind all symbols you can make out in the
-
-image . However don't stress , if it's just two or three in
-
-the beginning , this is absolutely fine and you 'll get better fast ! ]
-
-to take notes ! I E bring them into context of your inquiry ! ]
-
-\[ after all individual symbols have been mapped , it's time to conjure
-
-the precise response through the concert of all mapped symbols ]
-
-→ give examples from SD daily draws
-
-\[ . now 's the time to employ the personal notes from before as a conductor
-
-of the concert ! )
-
-→ as a bonus , you could add notes at the end of the day " how
-
-relevant your daily reading was , this way you c
+**As a bonus,** you could add notes at the end of the day on how relevant your daily reading was, this way you could create something like a **SoulJournal** over time.
