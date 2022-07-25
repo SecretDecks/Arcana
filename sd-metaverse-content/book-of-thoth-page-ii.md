@@ -4,11 +4,11 @@
 
 ### What is seen
 
-The second image shows a woman in a long white-blue dress, that seems to flow, sitting on a stone block. On her head she's wearing a crown like piece of jewelry. The chest adorned with a white cross and in her lap, half covered by her gown lies a scroll with the word TORA written on it. At her feet lies a crescent moon. The high priestess sits between two pillars, a black one on the left with the letter B, and a white one on the right with the letter J on it. Between both pillars a curtain stretches, on it are pomegranates and palm trees depicted. Behind the curtain one can glimpse the sea.
+The second image shows a woman in a long white-blue dress, that seems to flow, sitting on a stone block. On her head she's wearing a crown like piece of jewellery. The chest adorned with a white cross and in her lap, half covered by her gown lies a scroll with the word TORA written on it. At her feet lies a crescent moon. The high priestess sits between two pillars, a black one on the left with the letter B, and a white one on the right with the letter J on it. Between both pillars a curtain stretches, on it are pomegranates and palm trees depicted. Behind the curtain one can glimpse the sea.
 
 #### Comparison Magician & High Priestess
 
-The posture of the Magician Clmay I) is active, wanting (desiring ?), the posture of the high Priestess is passive, reserved. The Magician's attention is focused on the four magical tools in front of him. The High Priestess is looking for a connection to the one viewing the image (page), as if she's expecting 5th. that's coming at her. (expecting a 5th to come to her ?)
+The posture of the Magician (Image I) is active, longing, the posture of the high Priestess is passive, reserved. The Magician's attention is focused on the four magical tools in front of him. The High Priestess is looking for a connection to the one viewing the image (page), as if she's expecting 5th. that's coming at her. (expecting a 5th to come to her ?)
 
 #### Experience what is seen!
 
@@ -22,7 +22,7 @@ Already the whole structure expresses the duality as opposing poles; in contrast
 
 The Man Magician is only one side of the human experience. Man or woman only by themselves (male or female energy) can't claim to have / be the full human experience. Male and female (energies) together form the human experience.
 
-This fact is also expressed in the Bible \[Book 1, Moses 27): w. The word I'd in the original Hebrew text is written as ELOHIM. According to the structure of the Hebrew language the word ELOHIM expresses a plurality. ELOHIM is thus not a singular being, but (at least) a dual being. That's why a human must express this duality, if he wants to see himself fashioned after the image of god.
+This fact is also expressed in the Bible \[Moses 1, 1:27 or Genesis 1:27): The word "g-d" in the original Hebrew text is written as ELOHIM. According to the structure of the Hebrew language the word ELOHIM expresses a plurality. ELOHIM is thus not a singular being, but (at least) a dual being. That's why a human must express this duality, if he wants to see himself fashioned after the image of god.
 
 Already here we discover how no image (page) of the Tarot exist by itself. Every image has an inherent message, however the Tarot really starts talking once the individual images are connected!
 
